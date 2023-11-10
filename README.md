@@ -69,16 +69,10 @@
 
 ###
 
-<h3 align="center">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats </h3>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=k1voh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/k1voh/k1voh/output/snake.svg" alt="Snake animation" />
-
-###
