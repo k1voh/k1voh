@@ -71,5 +71,5 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=k1voh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=k1voh&show_icons=true&locale=en&layout=compact" alt="k1voh" />
 </div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=k1voh&show_icons=true&locale=en&layout=compact" alt="k1voh" /></p>
